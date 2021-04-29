@@ -1,0 +1,16 @@
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\bin\Debug\net5.0\Lock.console.exe
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\bin\Debug\net5.0\Lock.console.deps.json
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\bin\Debug\net5.0\Lock.console.runtimeconfig.json
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\bin\Debug\net5.0\Lock.console.runtimeconfig.dev.json
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\bin\Debug\net5.0\Lock.console.dll
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\bin\Debug\net5.0\ref\Lock.console.dll
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\bin\Debug\net5.0\Lock.console.pdb
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\obj\Debug\net5.0\Lock.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\obj\Debug\net5.0\Lock.console.AssemblyInfoInputs.cache
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\obj\Debug\net5.0\Lock.console.AssemblyInfo.cs
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\obj\Debug\net5.0\Lock.console.csproj.CoreCompileInputs.cache
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\obj\Debug\net5.0\Lock.console.dll
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\obj\Debug\net5.0\ref\Lock.console.dll
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\obj\Debug\net5.0\Lock.console.pdb
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\obj\Debug\net5.0\Lock.console.genruntimeconfig.cache
+C:\Users\RD\Desktop\Projects\Study\src\Lock.console\obj\Debug\net5.0\Lock.console.csprojAssemblyReference.cache
